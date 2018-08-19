@@ -1,4 +1,4 @@
-## Raj Pandit's Website
+## Raj Pandit
 
 You can use the [editor on GitHub](https://github.com/rajkpandit/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
